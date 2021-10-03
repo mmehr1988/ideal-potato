@@ -146,7 +146,9 @@ During the initial phases of putting this project together, we realized quickly 
 
 ## Contributing
 
-Please open a Github issues request and we’ll review and respond as soon as I can.
+Please open a Github issues request and I’ll review and respond as soon as I can. See below image for where to find the Issue page.
+
+![alt text](./readme_assets/img/contribute-img.png)
 
 ## License
 
