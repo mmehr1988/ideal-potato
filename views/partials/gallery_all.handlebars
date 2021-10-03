@@ -1,0 +1,28 @@
+<!-- Gallery -------------------------------------------------------------------->
+<div>
+  <div class='container px-5 py-2'>
+    <div class='row'>
+
+      <div class='col-lg-4 col-md-12 mb-4 mb-lg-0'>
+        {{#each gallery_1}}
+        {{> gallery_modal loggedIn=../loggedIn}}
+        {{/each}}
+      </div>
+
+
+      <div class='col-lg-4 mb-4 mb-lg-0'>
+        {{#each gallery_2}}
+        {{> gallery_modal loggedIn=../loggedIn}}
+        {{/each}}
+      </div>
+
+
+      <div class='col-lg-4 mb-4 mb-lg-0'>
+        {{#each gallery_3}}
+        {{> gallery_modal loggedIn=../loggedIn}}
+        {{/each}}
+      </div>
+
+    </div>
+  </div>
+</div>

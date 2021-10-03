@@ -1,0 +1,30 @@
+
+<header>
+  <nav>
+    <div class='container px-5 py-2'>
+      <div class='d-flex flex-wrap align-items-center justify-content-between'>
+
+
+        <div class='d-flex align-items-center gap-2'>
+          <i class="bx bx-world bx-lg"></i>
+          <span class="logo_name fs-1">Tradeopedia</span>
+        </div>
+
+        <div class='d-flex align-items-center justify-content-end gap-2'>
+
+          {{> signup_modal}}
+
+          {{> login_modal}}
+          
+        </div>
+      </div>
+
+      {{> main_nav}}
+
+    </div>
+  </nav>
+</header>
+
+<main>
+  {{> gallery_all}}
+</main>
