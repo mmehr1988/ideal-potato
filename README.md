@@ -20,7 +20,7 @@
 
 Tradeopedia is an e-commerce market place website that connects sellers and buyers within their city location. In the past few years, people have developed new skills as a result of work from home due to covid, and these skills have increased the demand for online storefronts. As a result, we wanted to create an e-commerce marketplace for the "everyday artist".
 
-To view the final app deployed on Heroku, please click on the following [link](https://dry-hamlet-80029.herokuapp.com/).
+To view the final app deployed on Heroku, please click on the following [link](https://afternoon-shore-04761.herokuapp.com/).
 
 ## Technologies
 
