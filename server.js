@@ -1,4 +1,4 @@
-const compression = require('compression'),
+const compression = require('compression');
 const express = require('express');
 const multer = require('multer');
 const morgan = require('morgan');
