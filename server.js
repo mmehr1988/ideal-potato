@@ -23,7 +23,7 @@ app.use(compression());
 app.use(morgan('dev'));
 /////////////////////////////////////////////
 
-const PORT = process.env.PORT || 4002;
+const PORT = process.env.PORT || 4001;
 
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
