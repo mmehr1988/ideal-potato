@@ -19,7 +19,7 @@ const app = express();
 app.use(morgan('dev'));
 /////////////////////////////////////////////
 
-const PORT = process.env.PORT || 4001;
+const PORT = process.env.PORT || 4002;
 
 const SequelizeStore = require('connect-session-sequelize')(session.Store);
 
